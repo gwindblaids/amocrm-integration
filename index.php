@@ -169,7 +169,7 @@ class amocrmTask {
 
 
 $amo_obj = new amocrmTask(
-	array("USER_LOGIN" => "gwindblaids@gmail.com",
-		  "USER_HASH"  => "69bb3af7b99e9ff5aef677fd30cabe728b59f032",
-		  ), "gwindblaids" );
+	array("USER_LOGIN" => "0663288826.ed@gmail.cpm",
+		  "USER_HASH"  => "79c9c1bf02c6a6975e90a5838fa120f38e7b2d3b",
+		  ), "0663288826edgmailcpm" );
 
